@@ -569,3 +569,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to all contributors who have shared their knowledge and questions!
 - Special thanks to [classicmodels database](https://github.com/johnpapa/classicmodels) for providing sample database queries for practice.
+
+
+---
+
+[Go to the Top](#awesome-sql-interview)
