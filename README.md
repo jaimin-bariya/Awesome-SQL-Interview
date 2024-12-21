@@ -41,6 +41,7 @@ This repository serves as a practical guide for learning **SQL** and preparing f
 - Download diagram of classicmodels db - [click here](https://www.mysqltutorial.org/wp-content/uploads/2018/04/MySQL-Sample-Database-Diagram-PDF-A4.pdf)
 - For mroe info go to - [mysql](https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/)
 
+<br/>
 
 ## Repository Structure
 - **Part 1**
