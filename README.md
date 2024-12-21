@@ -80,7 +80,7 @@ This repository serves as a practical guide for learning **SQL** and preparing f
 16. Write a query to display the `productName` of all products in the `products` table where `productLine` is 'Classic Cars'.  
 17. How do you find the `customerName` of all customers whose `creditLimit` is greater than 50,000?  
 18. Write a query to fetch all products that have a `quantityInStock` between 10 and 100.  
-19. How do you retrieve all orders placed in the year 2024?  
+19. How do you retrieve all orders placed in the year 2003?  
 20. Write a query to display the `employeeNumber` and `firstName` of employees whose last names start with 'B'.  
 
 ---
