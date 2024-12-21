@@ -57,7 +57,7 @@ This repository serves as a practical guide for learning **SQL** and preparing f
 
 ## Categories of Questions Part - 1
 
-## L0: Basic SQL
+## L0: Basic SQL - [SOLUTION](https://dev.to/jaiminbariya/sql-basic-question-for-interview-51j5)
 - Questions related to basic SQL commands such as `SELECT`, `INSERT`, `UPDATE`, and `DELETE`.
 - Queries related to basic data manipulation and retrieval from simple tables.
 
