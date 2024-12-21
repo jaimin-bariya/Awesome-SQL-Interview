@@ -7,6 +7,7 @@ This repository contains a collection of **SQL queries** and **interview questio
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [prerequisites](#prerequisites)
 - [Repository Structure](#repository-structure)
 - [Categories of Questions](#categories-of-questions-part---1)
   - [L0: Basic SQL](#l0-basic-sql)
@@ -36,7 +37,9 @@ This repository serves as a practical guide for learning **SQL** and preparing f
 
 
 ## prerequisites
-Before starting with the practice set, you have to download and set mysql sample database "classicmodels", [click here to download](https://www.mysqltutorial.org/wp-content/uploads/2023/10/mysqlsampledatabase.zip)
+- Before starting with the practice set, you have to download and set mysql sample database "classicmodels", [click here to download](https://www.mysqltutorial.org/wp-content/uploads/2023/10/mysqlsampledatabase.zip)
+- Download diagram of classicmodels db - [click here](https://www.mysqltutorial.org/wp-content/uploads/2018/04/MySQL-Sample-Database-Diagram-PDF-A4.pdf)
+- For mroe info go to - [mysql](https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/)
 
 
 ## Repository Structure
