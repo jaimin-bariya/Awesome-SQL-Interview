@@ -33,6 +33,12 @@ This repository serves as a practical guide for learning **SQL** and preparing f
 
 <br/>
 
+
+
+## prerequisites
+Before starting with the practice set, you have to download and set mysql sample database "classicmodels", [click here to download](https://www.mysqltutorial.org/wp-content/uploads/2023/10/mysqlsampledatabase.zip)
+
+
 ## Repository Structure
 - **Part 1**
   - **L0**: Basic SQL queries and concepts.
