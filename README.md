@@ -38,8 +38,8 @@ This repository serves as a practical guide for learning **SQL** and preparing f
 
 ## Prerequisites
 - Before starting with the practice set, you have to download and set mysql sample database "classicmodels", [click here to download](https://www.mysqltutorial.org/wp-content/uploads/2023/10/mysqlsampledatabase.zip)
-- Download diagram of classicmodels db - [click here](https://www.mysqltutorial.org/wp-content/uploads/2018/04/MySQL-Sample-Database-Diagram-PDF-A4.pdf)
-- For mroe info go to - [mysql](https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/)
+- Download diagram of classicmodels db - <a href="https://www.mysqltutorial.org/wp-content/uploads/2018/04/MySQL-Sample-Database-Diagram-PDF-A4.pdf" target="_blank">click here</a>
+- For more info go to - <a href="https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/" target="_blank">Mysql</a>
 
 <br/>
 
