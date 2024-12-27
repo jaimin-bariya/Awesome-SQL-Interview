@@ -104,14 +104,14 @@ This repository serves as a practical guide for learning **SQL** and preparing f
 10. How do you find the customers who have never placed an order?  
 11. Write a query to retrieve the `customerName` and the total number of orders placed by each customer (include customers who haven’t placed any orders).  
 12. Write a query to find the `productName` and `quantityOrdered` for all orders where the quantity of the product ordered is greater than 50.  
-13. How do you retrieve the `employeeNumber`, `firstName`, and the `orderNumber` of employees who have processed an order?  
+13. Retrieve the `employeeNumber`, `firstName`, and `orderNumber` of employees who are assigned as `sales representatives to customers` that have placed an order. 
 14. Write a query to calculate the average price of products in the `products` table based on `buyPrice`.  
 15. How do you fetch the top 3 most expensive products in the `products` table?  
 16. Write a query to retrieve the `customerName`, `orderNumber`, and `orderDate` of all orders that have a status of 'Shipped'.  
 17. How do you display the total number of products sold for each `productLine`?  
 18. Write a query to find employees who report directly to the employee with `employeeNumber = 1143`.  
 19. Write a query to calculate the total number of orders in the `orders` table, grouped by `status`.  
-20. How do you find the employees who have the highest `salary` in each office?  
+20. List employees with their manager’s name.
 
 ---
 
