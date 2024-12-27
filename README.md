@@ -87,7 +87,7 @@ This repository serves as a practical guide for learning **SQL** and preparing f
 <br/>
 
 
-## L1: Intermediate SQL
+## L1: Intermediate SQL - [SOLUTION](https://dev.to/jaiminbariya/sql-basic-and-intermediate-questions-for-interview-3jgo)
 - Queries that involve working with multiple tables, using `JOIN`, `GROUP BY`, `HAVING`, and complex `WHERE` conditions.
 - Introduction to subqueries, aggregate functions, and case statements.
 
